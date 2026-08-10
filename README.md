@@ -1,64 +1,81 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║              KAIQUE ALVES // DEVELOPER PROFILE              ║
-║                    SYSTEM ONLINE                            ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0d1117,100:00f5ff&height=180&section=header&text=KAIQUE%20ALVES&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=FRONT-END%20DEVELOPER%20%7C%20UI%2FUX%20ENTHUSIAST&descSize=17&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0D1117,100:00FF88&height=200&section=header&text=KAIQUE%20ALVES&fontSize=50&fontColor=00FF88&animation=fadeIn&fontAlignY=35&desc=FRONT-END%20DEVELOPER%20%7C%20UI%2FUX&descSize=18&descAlignY=58&descColor=FFFFFF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Initializing+KaiqueOS...;System+Online+%E2%9C%93;Front-End+Developer;Building+clean+%26+modern+interfaces;UI%2FUX+%7C+HTML+%7C+CSS;Turning+ideas+into+interfaces;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=760&lines=INITIALIZING+KAIQUE.OS...;SYSTEM+ONLINE+%E2%9C%93;FRONT-END+DEVELOPER;DESIGNING+DIGITAL+EXPERIENCES;HTML+%7C+CSS+%7C+JAVASCRIPT;UI%2FUX+ENTHUSIAST;BUILDING+THE+FUTURE%2C+ONE+INTERFACE+AT+A+TIME." alt="Typing Animation"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f5ff?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-FRONT--END-111827?style=for-the-badge&logo=html5&logoColor=00f5ff"/>
-<img src="https://img.shields.io/badge/UI%2FUX-DESIGN-111827?style=for-the-badge&logo=figma&logoColor=00f5ff"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONT--END-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/UI%2FUX-DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=00FF88"/>
 
 </div>
 
 ---
 
-# `> whoami`
-
 <div align="center">
 
-### 👨‍💻 Kaique Alves
+# `> SYSTEM.IDENTITY`
 
-**Front-End Developer • UI/UX Enthusiast • Technology Student**
+### 👨‍💻 KAIQUE ALVES
+
+**Front-End Developer · UI/UX Enthusiast · Technology Student**
+
+> Transformando ideias em interfaces modernas, funcionais e memoráveis.
 
 </div>
 
-Sou um desenvolvedor focado na criação de **interfaces modernas, intuitivas e responsivas**, com atenção especial à experiência do usuário e à qualidade visual dos projetos.
-
-Atualmente, meu foco está em fortalecer minhas habilidades em **Front-End, HTML, CSS e UI/UX**, transformando ideias em experiências digitais funcionais e visualmente marcantes.
-
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                    KAIQUE.ALVE$ // PROFILE                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  ROLE        → Front-End Developer                         │
-│  FOCUS       → HTML • CSS • UI/UX                          │
-│  MINDSET     → Design + Code + Experience                  │
-│  STATUS      → Learning / Building / Improving             │
-│                                                             │
-│  OBJECTIVE   → Create interfaces that people enjoy using.  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   KAIQUE.ALVE$ // DEVELOPER_PROFILE                         │
+│                                                              │
+│   ├── ROLE        → Front-End Developer                     │
+│   ├── SPECIALTY   → HTML / CSS / UI/UX                      │
+│   ├── MINDSET     → Design × Code × Experience              │
+│   ├── STATUS      → Learning / Building / Improving         │
+│   └── OBJECTIVE   → Build better digital experiences        │
+│                                                              │
+│   SYSTEM MESSAGE:                                            │
+│   "Every pixel has a purpose."                               │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `> tech_stack`
+# `> ABOUT_ME`
+
+Olá! Eu sou **Kaique Alves**, desenvolvedor com foco em **Front-End e UI/UX**.
+
+Gosto de transformar ideias em interfaces que sejam não apenas bonitas, mas também **intuitivas, responsivas e agradáveis de utilizar**.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, design de interfaces e experiência do usuário, buscando constantemente evoluir minha forma de pensar e construir produtos digitais.
+
+```console
+Cachorreira@dev:~$ cat about.txt
+
+> Front-End Developer
+> UI/UX Enthusiast
+> HTML & CSS lover
+> JavaScript learner
+> Responsive Design
+> Clean Interfaces
+> Constantly learning
+
+STATUS: ████████████████████ 100%
+```
+
+---
+
+# `> TECH_STACK`
 
 <div align="center">
 
-### 🖥️ Front-End
+### 🌐 FRONT-END
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
@@ -70,7 +87,7 @@ Atualmente, meu foco está em fortalecer minhas habilidades em **Front-End, HTML
 
 <br><br>
 
-### 🛠️ Tools & Workflow
+### 🛠️ TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
 
@@ -78,142 +95,185 @@ Atualmente, meu foco está em fortalecer minhas habilidades em **Front-End, HTML
 
 <br>
 
-| Área                   | Tecnologias                         |
-| :--------------------- | :---------------------------------- |
-| 🌐 **Front-End**       | HTML5 · CSS3 · JavaScript           |
-| 🎨 **Design**          | UI Design · UX · Prototyping        |
-| 📱 **Interfaces**      | Responsive Design · Componentização |
-| 🔧 **Versionamento**   | Git · GitHub                        |
-| 🖥️ **Ambiente**       | VS Code · Linux · Windows           |
-| 🐳 **Dev Environment** | Docker                              |
+<div align="center">
+
+| CATEGORY | TECHNOLOGIES |
+|:---:|:---|
+| 🌐 **Front-End** | HTML5 · CSS3 · JavaScript |
+| 🎨 **Design** | UI Design · UX · Prototyping |
+| 📱 **Interfaces** | Responsive Design · Componentização |
+| 🔧 **Version Control** | Git · GitHub |
+| 💻 **Development** | VS Code · Linux · Windows |
+| 🐳 **Environment** | Docker |
+
+</div>
 
 ---
 
-# `> projects`
+# `> PROJECT_DATABASE`
 
 <div align="center">
 
-### 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 </div>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🟦 Pokédex em Grafos
+<h3 align="center">🎮 Pokédex em Grafos</h3>
 
-Aplicação web desenvolvida para representar relacionamentos entre Pokémon utilizando uma estrutura de banco de dados em grafos.
+<p align="center">
+Aplicação web acadêmica utilizando uma Pokédex como representação visual para um banco de dados em grafos.
+</p>
 
-**Stack:**
+<div align="center">
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `Neo4j`
+`HTML` `CSS` `JavaScript`
 
-**Features:**
+`Node.js` `Express` `Neo4j`
 
-* 🔐 Autenticação
-* ⚡ Interface web
-* 🔎 Busca de Pokémon
-* ⭐ Favoritos
-* 👥 Equipes
-* 🔗 Relacionamentos em grafos
+</div>
+
+<br>
+
+**Features**
+
+- 🔐 Sistema de autenticação
+- 🔎 Busca de Pokémon
+- ⭐ Favoritos
+- 👥 Equipes
+- 🔗 Relacionamentos em grafos
+- ⚡ Interface web interativa
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💧 Irrigação Sustentável
+<h3 align="center">💧 Irrigação Sustentável</h3>
 
-Projeto acadêmico envolvendo tecnologia e sustentabilidade, com proposta de automação e monitoramento de um sistema de irrigação.
+<p align="center">
+Projeto acadêmico envolvendo IoT, sustentabilidade e automação de sistemas de irrigação.
+</p>
 
-**Conceitos:**
+<div align="center">
 
-`IoT` `Arduino` `Sensores` `Automação`
+`Arduino` `IoT`
 
-**Objetivo:**
+`Sensores` `Automação`
 
-* 🌱 Reduzir desperdício
-* 💧 Otimizar irrigação
-* 📡 Monitoramento
-* ⚙️ Automação
+</div>
+
+<br>
+
+**Objetivos**
+
+- 🌱 Redução de desperdício
+- 💧 Irrigação inteligente
+- 📡 Monitoramento
+- ⚙️ Automação
+- ♻️ Sustentabilidade
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 💳 Nubax
+<h3 align="center">💳 Nubax</h3>
 
-Projeto acadêmico de aplicação bancária desenvolvido com foco em organização de funcionalidades e persistência de dados.
+<p align="center">
+Projeto acadêmico de aplicação bancária desenvolvido para praticar programação orientada a objetos e persistência de dados.
+</p>
 
-**Conceitos:**
+<div align="center">
 
-`Java` `CSV` `POO` `Persistência`
+`Java` `POO` `CSV`
 
-**Foco:**
+</div>
 
-* 👤 Usuários
-* 💰 Operações
-* 📁 Persistência
-* 🧩 Organização do sistema
+<br>
+
+**Conceitos**
+
+- 👤 Gerenciamento de usuários
+- 💰 Operações bancárias
+- 📁 Persistência
+- 🧩 Organização de código
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧪 Projetos & Experimentos
+<h3 align="center">🧪 Lab Projects</h3>
 
-Espaço dedicado a estudos, protótipos e experimentos envolvendo desenvolvimento web e design de interfaces.
+<p align="center">
+Espaço dedicado aos meus experimentos, estudos e projetos pessoais de desenvolvimento.
+</p>
 
-**Explorando:**
+<div align="center">
 
-`HTML` `CSS` `JavaScript` `UI/UX`
+`HTML` `CSS` `JavaScript`
 
-> Constantemente construindo, testando e evoluindo.
+`UI/UX` `Web`
+
+</div>
+
+<br>
+
+> Building. Testing. Breaking. Learning. Rebuilding.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# `> current_mission`
+# `> CURRENT_MISSION`
 
 ```console
 ╭──────────────────────────────────────────────────────────────╮
 │ KAIQUE@DEV ~ $ ./current_mission.sh                         │
 ╰──────────────────────────────────────────────────────────────╯
 
-[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100%
+[ SYSTEM ] Loading objectives...
 
-> Mission initialized...
-
-[✓] Aprimorar Front-End
-[✓] Dominar HTML & CSS
+[✓] Aprimorar HTML & CSS
 [✓] Desenvolver interfaces responsivas
 [✓] Estudar UI/UX
+[✓] Melhorar fundamentos de Front-End
+
 [→] Evoluir em JavaScript
-[→] Criar projetos cada vez mais completos
-[→] Construir um portfólio profissional
+[→] Criar interfaces mais complexas
+[→] Construir projetos profissionais
+[→] Expandir meu portfólio
+
+[→] FUTURE TARGET
+    └── Full-Stack Development
 
 STATUS: LEARNING_MODE.exe
-NEXT_TARGET: FULL-STACK DEVELOPMENT
+
+████████████████████░░ 90%
 
 ╭──────────────────────────────────────────────────────────────╮
-│ "Good design is invisible. Great design is unforgettable."  │
+│ NEXT LEVEL → CREATE • DESIGN • DEVELOP • INNOVATE            │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# `> github_analytics`
+# `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cachorreira&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&ring_color=00F5FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Cachorreira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&ring_color=00FF88&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cachorreira&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cachorreira&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -221,60 +281,62 @@ NEXT_TARGET: FULL-STACK DEVELOPMENT
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Cachorreira&theme=github-dark&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&dates=FFFFFF" width="75%"/>
 
 </div>
 
 ---
 
-# `> activity_graph`
+# `> ACTIVITY_GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=ffffff&line=00f5ff&point=ffffff&area=true&hide_border=true&custom_title=KAIQUE%20ALVES%20%E2%80%94%20ACTIVITY%20GRAPH" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cachorreira&bg_color=0D1117&color=FFFFFF&line=00FF88&point=00FF88&area=true&hide_border=true&custom_title=KAIQUE%20ALVES%20%E2%80%94%20SYSTEM%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
 
-# `> achievements`
+# `> TROPHIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Cachorreira&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="90%"/>
 
 </div>
 
 ---
 
-# `> contribution_matrix`
+# `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 SNAKE ANIMATION
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Cachorreira/Cachorreira/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
-> **Para ativar a Snake Animation:** crie o workflow oficial de geração do `github-contribution-grid-snake.svg` no seu perfil. O README acima já está preparado para exibi-la.
+<br>
+
+> **Nota:** para essa animação aparecer, é necessário configurar o GitHub Actions que gera o arquivo `github-contribution-grid-snake.svg` na branch `output`.
 
 ---
 
-# `> social_network`
+# `> SOCIAL_NETWORK`
 
 <div align="center">
 
 <a href="https://github.com/Cachorreira">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88"/>
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/kaique-alves-361a702a7/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+<a href="https://www.linkedin.com/in/kaique-alves-361a702a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88"/>
 </a>
 
-<a href="https://www.instagram.com/https://www.instagram.com/https.kaiquera//">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F5FF"/>
+<a href="https://www.instagram.com/https.kaiquera/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF88"/>
 </a>
 
 </div>
@@ -283,26 +345,36 @@ NEXT_TARGET: FULL-STACK DEVELOPMENT
 
 <div align="center">
 
+# `> PROFILE_STATUS`
+
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║                 SYSTEM STATUS: OPERATIONAL                  ║
+║                  SYSTEM STATUS: ONLINE                       ║
 ║                                                              ║
-║        CODE • DESIGN • EXPERIENCE • INNOVATION              ║
+║       CODE  •  DESIGN  •  EXPERIENCE  •  INNOVATION         ║
+║                                                              ║
+║                    KAIQUE ALVES                              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Cachorreira&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Cachorreira&label=PROFILE%20VIEWS&color=00FF88&style=for-the-badge" />
 
 <br><br>
 
-### `> END_OF_TRANSMISSION`
-
-<sub>Designed & developed by <strong>Kaique Alves</strong> • 2026</sub>
+`Thanks for visiting my profile.`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0d1117,100:050505&height=100&section=footer" width="100%"/>
+**Let's build something awesome.**
+
+<br>
+
+<sub>Designed & developed by <strong>Kaique Alves</strong> • 2026</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0D1117,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
